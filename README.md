@@ -1,6 +1,13 @@
 # 🫵 Nelson's Nudge
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
 Nelson's Nudge est un assistant conversationnel alimenté par l'IA qui analyse les tokens et memecoins Solana avec un sens de l'humour unique inspiré de Nelson Muntz des Simpsons.
+
+![Nelson's Nudge Demo](https://img.shields.io/badge/Status-Active-success)
 
 ## 🎯 Fonctionnalités
 
