@@ -1,66 +1,66 @@
-# Contribuer à Nelson's Nudge
+# Contributing to Nelson's Nudge
 
-Merci de votre intérêt pour contribuer à Nelson's Nudge ! 🎉
+Thank you for your interest in contributing to Nelson's Nudge! 🎉
 
-## Comment contribuer
+## How to Contribute
 
-### Signaler des bugs
+### Reporting Bugs
 
-Si vous trouvez un bug, veuillez ouvrir une issue en incluant :
-- Une description claire du problème
-- Les étapes pour reproduire le bug
-- Le comportement attendu vs. le comportement observé
-- Des captures d'écran si pertinent
-- Votre environnement (navigateur, OS, etc.)
+If you find a bug, please open an issue including:
+- A clear description of the problem
+- Steps to reproduce the bug
+- Expected behavior vs. observed behavior
+- Screenshots if relevant
+- Your environment (browser, OS, etc.)
 
-### Proposer de nouvelles fonctionnalités
+### Proposing New Features
 
-Avant de commencer à travailler sur une nouvelle fonctionnalité :
-1. Ouvrez une issue pour discuter de votre idée
-2. Attendez les retours de la communauté
-3. Une fois approuvée, créez une branche et commencez à coder
+Before starting work on a new feature:
+1. Open an issue to discuss your idea
+2. Wait for feedback from the community
+3. Once approved, create a branch and start coding
 
 ### Pull Requests
 
-1. **Fork** le projet
-2. **Créez** une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. **Committez** vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. **Poussez** vers la branche (`git push origin feature/AmazingFeature`)
-5. **Ouvrez** une Pull Request
+1. **Fork** the project
+2. **Create** a branch for your feature (`git checkout -b feature/AmazingFeature`)
+3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
+4. **Push** to the branch (`git push origin feature/AmazingFeature`)
+5. **Open** a Pull Request
 
-### Standards de code
+### Code Standards
 
-- Utilisez TypeScript pour tout nouveau code
-- Suivez les conventions de nommage existantes
-- Ajoutez des commentaires pour le code complexe
-- Assurez-vous que `npm run lint` passe sans erreur
-- Testez vos changements localement avant de soumettre
+- Use TypeScript for all new code
+- Follow existing naming conventions
+- Add comments for complex code
+- Ensure `npm run lint` passes without errors
+- Test your changes locally before submitting
 
-### Tests
+### Testing
 
-- Ajoutez des tests pour les nouvelles fonctionnalités
-- Assurez-vous que tous les tests passent (`npm test`)
-- Visez une couverture de code élevée
+- Add tests for new features
+- Ensure all tests pass (`npm test`)
+- Aim for high code coverage
 
-### Messages de commit
+### Commit Messages
 
-Utilisez des messages de commit clairs et descriptifs :
-- `feat: ajouter la fonctionnalité X`
-- `fix: corriger le bug Y`
-- `docs: mettre à jour la documentation`
-- `style: améliorer le formatage`
-- `refactor: refactoriser le composant Z`
-- `test: ajouter des tests pour W`
+Use clear and descriptive commit messages:
+- `feat: add feature X`
+- `fix: fix bug Y`
+- `docs: update documentation`
+- `style: improve formatting`
+- `refactor: refactor component Z`
+- `test: add tests for W`
 
-## Code de conduite
+## Code of Conduct
 
-- Soyez respectueux et inclusif
-- Acceptez les critiques constructives
-- Concentrez-vous sur ce qui est meilleur pour la communauté
-- Montrez de l'empathie envers les autres membres
+- Be respectful and inclusive
+- Accept constructive criticism
+- Focus on what's best for the community
+- Show empathy towards other members
 
-## Questions ?
+## Questions?
 
-N'hésitez pas à ouvrir une issue pour toute question !
+Feel free to open an issue for any questions!
 
-Merci encore pour votre contribution ! 🚀
+Thank you again for your contribution! 🚀

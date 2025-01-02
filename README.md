@@ -5,88 +5,90 @@
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-Nelson's Nudge est un assistant conversationnel alimenté par l'IA qui analyse les tokens et memecoins Solana avec un sens de l'humour unique inspiré de Nelson Muntz des Simpsons.
+Nelson's Nudge is an AI-powered conversational assistant that analyzes Solana tokens and memecoins with a unique sense of humor inspired by Nelson Muntz from The Simpsons.
 
-![Nelson's Nudge Demo](https://img.shields.io/badge/Status-Active-success)
+![Nelson's Nudge Demo](public/nelson-demo.png)
 
-## 🎯 Fonctionnalités
+## 🎯 Features
 
-- **Analyse de tokens Solana** : Entrez un nom de token, une adresse de contrat ou décrivez un lancement de memecoin
-- **Interface de chat intuitive** : Interface utilisateur moderne et réactive construite avec React et Tailwind CSS
-- **Réponses en streaming** : Obtenez des réponses en temps réel grâce au streaming de l'IA
-- **Analyse perspicace** : Nelson fournit des analyses humoristiques mais informatives des projets crypto
+- **Solana Token Analysis**: Enter a token name, contract address, or describe a memecoin launch
+- **Intuitive Chat Interface**: Modern and responsive UI built with React and Tailwind CSS
+- **Streaming Responses**: Get real-time responses through AI streaming
+- **Insightful Analysis**: Nelson provides humorous yet informative analyses of crypto projects
 
-## 🚀 Technologies utilisées
+## 🚀 Technologies Used
 
-- **Frontend** : React 18, TypeScript, Vite
-- **UI/UX** : Tailwind CSS, shadcn/ui, Lucide React
-- **Backend** : Supabase Edge Functions
-- **État** : React Query (@tanstack/react-query)
-- **Formulaires** : React Hook Form avec Zod validation
-- **Markdown** : React Markdown pour le rendu des messages
+- **Frontend**: React 18, TypeScript, Vite
+- **UI/UX**: Tailwind CSS, shadcn/ui, Lucide React
+- **Backend**: Supabase Edge Functions
+- **State Management**: React Query (@tanstack/react-query)
+- **Forms**: React Hook Form with Zod validation
+- **Markdown**: React Markdown for message rendering
 
 ## 📦 Installation
 
 ```sh
-# Cloner le dépôt
-git clone https://github.com/VOTRE_USERNAME/nelson-s-nudge.git
+# Clone the repository
+git clone https://github.com/solingo-learn/nelson-s-nudge.git
 
-# Naviguer dans le répertoire du projet
+# Navigate to the project directory
 cd nelson-s-nudge
 
-# Installer les dépendances
+# Install dependencies
 npm install
 
-# Créer un fichier .env avec vos variables d'environnement
-# Voir .env.example pour la structure requise
+# Create a .env file with your environment variables
+# See .env.example for the required structure
 cp .env.example .env
 
-# Démarrer le serveur de développement
+# Start the development server
 npm run dev
 ```
 
 ## 🔧 Configuration
 
-Créez un fichier `.env` à la racine du projet avec les variables suivantes :
+Create a `.env` file at the root of the project with the following variables:
 
 ```env
-VITE_SUPABASE_PROJECT_ID=votre_project_id
-VITE_SUPABASE_PUBLISHABLE_KEY=votre_publishable_key
-VITE_SUPABASE_URL=votre_supabase_url
+VITE_SUPABASE_PROJECT_ID=your_project_id
+VITE_SUPABASE_PUBLISHABLE_KEY=your_publishable_key
+VITE_SUPABASE_URL=your_supabase_url
 ```
 
-## 📝 Scripts disponibles
+## 📝 Available Scripts
 
-- `npm run dev` : Lance le serveur de développement
-- `npm run build` : Compile le projet pour la production
-- `npm run preview` : Prévisualise la version de production
-- `npm run lint` : Vérifie le code avec ESLint
-- `npm test` : Lance les tests
-- `npm run test:watch` : Lance les tests en mode watch
+- `npm run dev`: Start the development server
+- `npm run build`: Build the project for production
+- `npm run preview`: Preview the production build
+- `npm run lint`: Check code with ESLint
+- `npm test`: Run tests
+- `npm run test:watch`: Run tests in watch mode
 
-## 🎨 Composants UI
+## 🎨 UI Components
 
-Le projet utilise une bibliothèque complète de composants UI basés sur Radix UI et shadcn/ui :
+The project uses a comprehensive library of UI components based on Radix UI and shadcn/ui:
 
-- Accordéon, Alert Dialog, Avatar
+- Accordion, Alert Dialog, Avatar
 - Button, Card, Checkbox
 - Dialog, Dropdown Menu, Form
 - Input, Label, Select
 - Tabs, Toast, Tooltip
-- Et bien d'autres...
+- And many more...
 
-## 🤝 Contribution
+## 🤝 Contributing
 
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## 📄 Licence
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
-Ce projet est open source et disponible sous licence MIT.
+## 📄 License
 
-## ⚠️ Avertissement
+This project is open source and available under the MIT License.
 
-Cet outil est à des fins éducatives et de divertissement. Ne prenez pas de décisions d'investissement basées uniquement sur les analyses fournies. Faites toujours vos propres recherches (DYOR) avant d'investir dans les cryptomonnaies.
+## ⚠️ Disclaimer
+
+This tool is for educational and entertainment purposes only. Do not make investment decisions based solely on the analyses provided. Always Do Your Own Research (DYOR) before investing in cryptocurrencies.
 
 ---
 
-Construit avec ❤️ pour la communauté crypto Solana
+Built with ❤️ for the Solana crypto community
