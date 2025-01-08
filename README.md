@@ -9,6 +9,10 @@ Nelson's Nudge is an AI-powered conversational assistant that analyzes Solana to
 
 ![Nelson's Nudge Demo](public/nelson-demo.png)
 
+## 🚀 Live Demo
+
+To deploy this project to GitHub Pages or other platforms, see [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions.
+
 ## 🎯 Features
 
 - **Solana Token Analysis**: Enter a token name, contract address, or describe a memecoin launch
