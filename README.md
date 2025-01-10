@@ -7,11 +7,11 @@
 
 Nelson's Nudge is an AI-powered conversational assistant that analyzes Solana tokens and memecoins with a unique sense of humor inspired by Nelson Muntz from The Simpsons.
 
+## 🌐 Live Demo
+
+**[Try it now →](https://nelson-s-nudge.vercel.app)**
+
 ![Nelson's Nudge Demo](public/nelson-demo.png)
-
-## 🚀 Live Demo
-
-To deploy this project to GitHub Pages or other platforms, see [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions.
 
 ## 🎯 Features
 
