@@ -9,7 +9,7 @@ Nelson's Nudge is an AI-powered conversational assistant that analyzes Solana to
 
 ## 🌐 Live Demo
 
-**[Try it now →](https://nelson-s-nudge.vercel.app)**
+**[Try it now →](https://nelsons-nudge.vercel.app)**
 
 ![Nelson's Nudge Demo](public/nelson-demo.png)
 
